@@ -1,0 +1,6 @@
+.new-project {
+    display: flex;
+    justify-content: flex-end;
+    flex: 1;
+    margin-bottom: 15px;
+}
